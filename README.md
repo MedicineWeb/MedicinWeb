@@ -49,10 +49,15 @@ MedicineWeb은 기존 의약품 정보를 간단하게 시각화하여 원하는
     - 회원가입 시 입력한 보안 질문과 답변에 따라 아이디, 비밀번호 찾기가 가능합니다.
 <img width="330" alt="login" src="https://github.com/user-attachments/assets/42b1df8e-1eaf-4e5c-ac8a-6420a2d661c9">
 
+### 회원가입
+    - 아이디, 닉네임 중복을 확인할 수 있습니다.
+<img width="500" alt="Join" src="https://github.com/user-attachments/assets/200c0412-e570-4e1f-b47c-03b8585e8d5d"/>
 
 ### 마이프로필
     - 로그인을 한 경우에만 해당 기능을 이용할 수 있습니다.
     - 회원정보 수정, 회원 탈퇴 기능을 이용할 수 있습니다.
+    - 회원정보 수정의 경우 비밀번호를 확인한 후 수정이 가능합니다.
+<img width="500" alt="changeProfile" src="https://github.com/user-attachments/assets/bc89e5d8-1e10-4b90-920f-acec07564f43"/>
 
     - 상세조회 모달에서 즐겨찾기한 의약품의 목록을 확인할 수 있습니다.
     - 클릭 시 해당 의약품의 요약 정보를 확인 가능하며, 즐겨찾기 삭제가 가능합니다.
